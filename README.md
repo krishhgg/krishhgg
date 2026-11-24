@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/krishhgg/krishhgg/main/assets/readme.svg?t=1795491354" alt="Krish Garg: tech stack, GitHub contributions, top languages, merged open source PRs, and estimated AI token spend" />
+  <img src="https://raw.githubusercontent.com/krishhgg/krishhgg/main/assets/readme.svg?t=1795538493" alt="Krish Garg: tech stack, GitHub contributions, top languages, merged open source PRs, and estimated AI token spend" />
 </p>
